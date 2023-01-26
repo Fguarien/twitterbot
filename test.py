@@ -50,11 +50,11 @@ class TwitterAuth:
     Create a Twitter app at https://apps.twitter.com/ and generate
     consumer key, consumer secret etc. and insert them here.
     """
-    consumer_key = "BIwJbxIPUqw4dzn0Q9I5qvJZC"
-    consumer_secret = "6aqTVU5wa3EYrAsC0YDjr7WydYbk8cp35oxZ99wNeXHjm1hsbp"
-    bearer_token = "AAAAAAAAAAAAAAAAAAAAAAh2lAEAAAAAEoCP4zWfkWhf%2B2LQW3pohBtTDsE%3DVmievFkuqfSd1TBpFRvZferZy3JLLJecmlx73QlHDNltueHTrq"
-    access_token = "954778170980528129-VtrlHSBzM5Z4gZg2FSTbkM8uq2b6si7"
-    access_token_secret = "D5uq2dMoVcPdtita7bbas7xq5LmSeRjbaWFULCrE7sY4Q"
+    consumer_key = 
+    consumer_secret = 
+    bearer_token = 
+    access_token = 
+    access_token_secret = 
 
 
 def display_help():
