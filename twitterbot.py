@@ -32,18 +32,18 @@ class Settings:
     day_max = 2400
     hour_max = 42
     
-    # Define file path and make sure path is correct
-    file_name = "sysk.txt"
-    
-    script_filepath = "/Users/hal9000/Scripts/twitterbot/"
+    script_filepath = "/Users/hal9000/Scripts/"
     # RSS feed to read and post tweets from.
-    feed_urls = import_opml(script_filepath + 'Feedly.opml')
+    feed_urls = import_opml(script_filepath + 'tweets/Feedly.opml')
+
+     # Define file path and make sure path is correct
+    file_name = script_filepath + "tweets/sysk.txt"
 
     # Log file to save all tweeted RSS links (one URL per line).
-    posted_urls_output_file = script_filepath + "posted-urls.log"
+    posted_urls_output_file = script_filepath + "tweets/posted-urls.log"
 
     # Log file to save all retweeted tweets (one tweetid per line).
-    posted_retweets_output_file = script_filepath + "posted-retweets.log"
+    posted_retweets_output_file = script_filepath + "tweets/posted-retweets.log"
 
     # Include tweets with these words when retweeting.
     retweet_include_words = ["#ai","#ArtificialIntelligence", "#AINews","#CyberSecurity","#ChatGPT","#AI","#Robotics","#DPO","#27001","#generativeai","#aivoices","#aicontent","#humansai","#MachineLearning","#DeepLearning"]
