@@ -10,7 +10,7 @@ Both functions (Reading RSS and retweeting) can be used independently. The bot i
 ## Install
 
 1. Download or git clone Twitterbot:
-   - `git clone https://github.com/peterdalle/twitterbot`
+   - `gh repo clone Fguarien/twitterbot'
 2. Install dependencies [feedparser](https://pythonhosted.org/feedparser/) and [twython](https://twython.readthedocs.org/en/latest/):
    - `pip install feedparser`
    - `pip install twython`
