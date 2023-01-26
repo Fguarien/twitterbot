@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Feedly</title>
+</head>
+<body>
+<outline type="rss" text="Litterature audio.com" xmlUrl="http://feeds.feedburner.com/litteratureaudio" title="Litterature audio.com" htmlUrl="https://www.litteratureaudio.com" />
+<outline type="rss" text="Rocky Sand Studio » News" htmlUrl="http://www.rockysandstudio.com" xmlUrl="http://rockysandstudio.com/tag/news/feed" title="Rocky Sand Studio » News" />
+<outline title="TBIJ » All Stories" type="rss" htmlUrl="https://www.thebureauinvestigates.com/" text="TBIJ » All Stories" xmlUrl="http://www.thebureauinvestigates.com/feed/" />
+<outline title="AI" text="AI">
+<outline title="Geekflare" htmlUrl="https://geekflare.com/" text="Geekflare" xmlUrl="https://geekflare.com/feed/" type="rss" />
+</outline>
+<outline title="Apple" text="Apple">
+<outline xmlUrl="https://macbidouille.com/rss" type="rss" title="MacBidouille.com - Actualités et Bidouilles sur Mac, iPhone, iPad &amp; Apple Watch" htmlUrl="http://macbidouille.com/" text="MacBidouille.com - Actualités et Bidouilles sur Mac, iPhone, iPad &amp; Apple Watch" />
+<outline text="OS X Daily" type="rss" htmlUrl="https://osxdaily.com" xmlUrl="http://osxdaily.com/feed/" title="OS X Daily" />
+<outline htmlUrl="https://www.iphon.fr" xmlUrl="http://www.iphon.fr/feed/atom" title="iPhone 4S, iPad, iPod touch : le blog iPhon.fr" text="iPhone 4S, iPad, iPod touch : le blog iPhon.fr" type="rss" />
+<outline type="rss" htmlUrl="https://cdn.mgig.fr/rss/macg/light_rss_macg.mxl" title="MacGeneration" xmlUrl="http://rss.macgeneration.com/" text="MacGeneration" />
+<outline xmlUrl="http://belgium-iphone.lesoir.be/feed/" type="rss" text="Belgium iPhone" title="Belgium iPhone" htmlUrl="https://belgium-iphone.lesoir.be" />
+<outline title="iClarified - Apple News and Tutorials" xmlUrl="http://www.iclarified.com/rss/rss.xml" type="rss" htmlUrl="https://www.iClarified.com" text="iClarified - Apple News and Tutorials" />
+<outline title="Mac4Ever - Flux Actualité" type="rss" text="Mac4Ever - Flux Actualité" htmlUrl="https://www.mac4ever.com" xmlUrl="https://www.mac4ever.com/rss/actu" />
+</outline>
+<outline text="Applications" title="Applications">
+<outline htmlUrl="https://www.engadget.com/" text="Download Squad" type="rss" xmlUrl="http://www.downloadsquad.com/rss.xml" title="Download Squad" />
+<outline htmlUrl="http://www.engadget.com" text="TUAW - The Unofficial Apple Weblog" xmlUrl="http://www.tuaw.com/rss.xml" title="TUAW - The Unofficial Apple Weblog" type="rss" />
+<outline text="TorrentFreak" type="rss" htmlUrl="https://torrentfreak.com/" title="TorrentFreak" xmlUrl="http://feeds.feedburner.com/Torrentfreak" />
+<outline type="rss" title="Lifehacker" text="Lifehacker" xmlUrl="http://lifehacker.com/index.xml" htmlUrl="https://lifehacker.com" />
+<outline text="The Omni Group" type="rss" htmlUrl="https://www.omnigroup.com/" xmlUrl="http://www.omnigroup.com/blog/rss/" title="The Omni Group" />
+<outline htmlUrl="https://arstechnica.com" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" text="Ars Technica" type="rss" title="Ars Technica" />
+<outline htmlUrl="https://w3sh.com/" type="rss" text="w3sh magazine" xmlUrl="http://feeds.feedburner.com/w3shmag" title="w3sh magazine" />
+<outline text="Innovation Is Everywhere" title="Innovation Is Everywhere" htmlUrl="https://innovationiseverywhere.com" type="rss" xmlUrl="http://www.innovationiseverywhere.com/feed/" />
+<outline type="rss" xmlUrl="http://feeds.gawker.com/gizmodo/full" title="Gizmodo, the Gadget Guide" text="Gizmodo, the Gadget Guide" htmlUrl="https://gizmodo.com" />
+<outline xmlUrl="http://daringfireball.net/index.xml" text="Daring Fireball" type="rss" title="Daring Fireball" htmlUrl="https://daringfireball.net/" />
+<outline type="rss" title="MAKE" text="MAKE" htmlUrl="https://makezine.com/" xmlUrl="http://blog.makezine.com/index.xml" />
+</outline>
+<outline title="Bitcoin" text="Bitcoin">
+<outline htmlUrl="http://status.coinbase.com" xmlUrl="https://status.coinbase.com/history.rss" title="Coinbase Status - Incident History" type="rss" text="Coinbase Status - Incident History" />
+<outline title="Bitcoin Magazine - Bitcoin News, Articles and Expert Insights" text="Bitcoin Magazine - Bitcoin News, Articles and Expert Insights" type="rss" htmlUrl="https://bitcoinmagazine.com" xmlUrl="http://feeds.feedburner.com/BitcoinMagazine" />
+<outline text="CryptoCompare Daily Newsletter" xmlUrl="https://www.cryptocompare.com/api/external/newsletter/" htmlUrl="https://www.cryptocompare.com/" title="CryptoCompare Daily Newsletter" type="rss" />
+<outline title="CoinDesk" type="rss" text="CoinDesk" xmlUrl="http://feeds.feedburner.com/CoinDesk" htmlUrl="https://www.coindesk.com" />
+</outline>
+<outline title="Blogs" text="Blogs">
+<outline title="Blog Jay Alammar" htmlUrl="http://jalammar.github.io/" xmlUrl="https://jalammar.github.io/feed.xml" type="rss" text="Blog Jay Alammar" />
+<outline type="rss" text="Blog John Cook" htmlUrl="https://www.johndcook.com/blog" title="Blog John Cook" xmlUrl="https://www.johndcook.com/blog/feed" />
+<outline xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="http://bair.berkeley.edu/blog/" text="Berkeley Artificial Intelligence Research" type="rss" title="Berkeley Artificial Intelligence Research" />
+<outline htmlUrl="https://vitalab.github.io/" text="Blog literature review" title="Blog literature review" xmlUrl="https://vitalab.github.io/feed.xml" type="rss" />
+<outline xmlUrl="https://danieltakeshi.github.io/feed.xml" htmlUrl="https://danieltakeshi.github.io/" text="Blog AI ML - Seita's Place" type="rss" title="Blog AI ML - Seita's Place" />
+<outline type="rss" text="OpenAI Blog" htmlUrl="https://openai.com/" title="OpenAI Blog" xmlUrl="https://openai.com/blog/rss" />
+<outline type="rss" title="arXiv.org stat.ML" htmlUrl="http://arxiv.org/" text="arXiv.org stat.ML" xmlUrl="http://arxiv.org/rss/stat.ML" />
+<outline htmlUrl="https://www.datasciencecentral.com/" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral?format=xml" type="rss" title="Data Science Central" text="Data Science Central" />
+<outline type="rss" title="AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" text="AWS Machine Learning" htmlUrl="https://aws.amazon.com/blogs/machine-learning/" />
+<outline text="MIT AI news" title="MIT AI news" htmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence2" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" type="rss" />
+<outline xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" type="rss" text="Science Daily AI News" title="Science Daily AI News" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/" />
+<outline type="rss" htmlUrl="https://www.microsoft.com/en-us/research/" title="Microsoft Research Blog" xmlUrl="https://www.microsoft.com/en-us/research/feed" text="Microsoft Research Blog" />
+<outline type="rss" text="Medium - Artificial Intelligence Magazine" htmlUrl="https://becominghuman.ai?source=rss----5e5bef33608a---4" xmlUrl="https://becominghuman.ai/feed" title="Medium - Artificial Intelligence Magazine" />
+<outline title="RL Reddit" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" htmlUrl="https://www.reddit.com/r/reinforcementlearning/?format=xml" text="RL Reddit" type="rss" />
+<outline xmlUrl="http://arxiv.org/rss/cs.LG" type="rss" text="arXiv.org cs.ML" title="arXiv.org cs.ML" htmlUrl="http://arxiv.org/" />
+<outline type="rss" xmlUrl="http://proceedings.mlr.press//feed.xml" text="JMLR recent papers" htmlUrl="https://proceedings.mlr.press/" title="JMLR recent papers" />
+<outline text="Google AI Blog" title="Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="http://ai.googleblog.com/" type="rss" />
+<outline text="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" type="rss" title="Machine Learning Mastery" htmlUrl="https://machinelearningmastery.com/blog/" />
+<outline type="rss" xmlUrl="https://www.reddit.com/r/artificial/.rss" title="AI Reddit" text="AI Reddit" htmlUrl="https://www.reddit.com/r/artificial/" />
+<outline title="Reddit NN, DL, ML" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss?format=xml" htmlUrl="https://www.reddit.com/r/neuralnetworks/?format=xml" type="rss" text="Reddit NN, DL, ML" />
+<outline type="rss" text="RL paper review" title="RL paper review" htmlUrl="http://dtransposed.github.io/" xmlUrl="https://dtransposed.github.io/feed.xml" />
+<outline text="Blog AI Paper Review David Stutz" title="Blog AI Paper Review David Stutz" type="rss" htmlUrl="https://davidstutz.de/" xmlUrl="http://davidstutz.de/feed" />
+<outline htmlUrl="https://www.reddit.com/r/MachineLearning/" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" title="ML Reddit" type="rss" text="ML Reddit" />
+<outline text="NVIDIA AI Blog" title="NVIDIA AI Blog" htmlUrl="https://blogs.nvidia.com/" type="rss" xmlUrl="http://feeds.feedburner.com/nvidiablog" />
+<outline text="Blog AI Weirdness" title="Blog AI Weirdness" type="rss" htmlUrl="https://www.aiweirdness.com/" xmlUrl="https://aiweirdness.com/rss" />
+</outline>
+<outline title="Civadis" text="Civadis">
+<outline title="Feuille de route Microsoft 365 - Accédez aux dernières mises à jour" htmlUrl="https://www.microsoft.com/fr-be/microsoft-365/RoadmapFeatureRSS/" type="rss" xmlUrl="https://www.microsoft.com/fr-be/microsoft-365/RoadmapFeatureRSS/" text="Feuille de route Microsoft 365 - Accédez aux dernières mises à jour" />
+</outline>
+<outline text="Cryptocurrency" title="Cryptocurrency">
+<outline xmlUrl="http://feeds.feedburner.com/BitcoinMagazine" type="rss" text="Bitcoin Magazine - Bitcoin News, Articles and Expert Insights" title="Bitcoin Magazine - Bitcoin News, Articles and Expert Insights" htmlUrl="https://bitcoinmagazine.com" />
+<outline type="rss" htmlUrl="https://cryptoast.fr/" title="Cryptoast" text="Cryptoast" xmlUrl="https://cryptoast.fr/feed/" />
+<outline title="Cryptonaute" htmlUrl="https://cryptonaute.fr/" type="rss" text="Cryptonaute" xmlUrl="https://cryptonaute.fr/feed/" />
+<outline xmlUrl="http://cointelegraph.com/rss" type="rss" title="Cointelegraph" text="Cointelegraph" htmlUrl="https://cointelegraph.com" />
+<outline htmlUrl="https://journalducoin.com/" type="rss" text="Journal du Coin" title="Journal du Coin" xmlUrl="https://journalducoin.com/feed/" />
+<outline xmlUrl="https://coin24.fr/feed/" title="L'actualité des crypto-monnaies : Bitcoin, Ethereum, Litecoin | CoinJournal" type="rss" htmlUrl="https://coinjournal.net/fr/" text="L'actualité des crypto-monnaies : Bitcoin, Ethereum, Litecoin | CoinJournal" />
+<outline type="rss" text="Le Coin Coin" xmlUrl="http://le-coin-coin.fr/feed/" title="Le Coin Coin" htmlUrl="https://le-coin-coin.fr" />
+<outline type="rss" htmlUrl="https://cryptogains.fr" title="Cryptogains.fr" xmlUrl="https://cryptogains.fr/feed" text="Cryptogains.fr" />
+<outline type="rss" xmlUrl="https://cryptofr.com/category/27.rss" title="News" htmlUrl="https://cryptofr.com/category/27" text="News" />
+<outline title="Le Blog du Coin" htmlUrl="https://leblogducoin.net/" xmlUrl="https://leblogducoin.net/feed/" text="Le Blog du Coin" type="rss" />
+<outline htmlUrl="https://bitcoin.fr/" title="bitcoin.fr" text="bitcoin.fr" xmlUrl="http://www.bitcoin.fr/feed/atom" type="rss" />
+<outline title="Ethereum France" xmlUrl="http://www.ethereum-france.com/feed/" htmlUrl="https://www.ethereum-france.com" text="Ethereum France" type="rss" />
+<outline title="CryptoActu" type="rss" text="CryptoActu" htmlUrl="https://cryptoactu.com/" xmlUrl="https://cryptoactu.com/feed/" />
+</outline>
+<outline title="Design" text="Design">
+<outline type="rss" text="Dezeen" xmlUrl="http://feeds.feedburner.com/dezeen" htmlUrl="https://www.dezeen.com" title="Dezeen" />
+<outline xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/" text="The Oatmeal - Comics by Matthew Inman" type="rss" title="The Oatmeal - Comics by Matthew Inman" />
+</outline>
+<outline text="Economie" title="Economie">
+<outline title="Zero Hedge" htmlUrl="https://cms.zerohedge.com/" type="rss" xmlUrl="http://feeds.feedburner.com/zerohedge/feed" text="Zero Hedge" />
+<outline text="PLANETES360" title="PLANETES360" type="rss" htmlUrl="https://planetes360.fr/" xmlUrl="https://planetes360.fr/feed/" />
+<outline title="WikiStrike.com" text="WikiStrike.com" htmlUrl="https://www.wikistrike.com/" xmlUrl="http://www.wikistrike.com/rss-articles.xml" type="rss" />
+<outline text="Visual Capitalist" type="rss" xmlUrl="http://feeds.feedburner.com/visualcapitalist" title="Visual Capitalist" htmlUrl="https://www.visualcapitalist.com" />
+<outline xmlUrl="http://www.voltairenet.org/spip.php?page=backend&amp;id_secteur=1110&amp;lang=fr" type="rss" htmlUrl="https://www.voltairenet.org/" title="Réseau Voltaire" text="Réseau Voltaire" />
+<outline htmlUrl="https://www.agefi.fr" title="L'AGEFI" xmlUrl="http://www.agefi.fr/flux-rss/5" text="L'AGEFI" type="rss" />
+<outline text="Boulevard Voltaire" htmlUrl="https://www.bvoltaire.fr/" type="rss" title="Boulevard Voltaire" xmlUrl="http://www.bvoltaire.fr/feed" />
+<outline xmlUrl="http://www.santenatureinnovation.com/feed/" type="rss" htmlUrl="https://www.santenatureinnovation.com" text="Santé Nature Innovation" title="Santé Nature Innovation" />
+<outline htmlUrl="https://www.santenatureinnovation.com" type="rss" text="Commentaires pour Santé Nature Innovation" title="Commentaires pour Santé Nature Innovation" xmlUrl="http://www.santenatureinnovation.com/comments/feed/" />
+<outline xmlUrl="http://forumblog.org/feed/" title="World Economic Forum | Agenda | feed" htmlUrl="https://www.weforum.org" type="rss" text="World Economic Forum | Agenda | feed" />
+<outline type="rss" text="Truthstream Media" htmlUrl="http://truthstreammedia.com" title="Truthstream Media" xmlUrl="http://truthstreammedia.com/feed/" />
+<outline type="rss" htmlUrl="https://institutdeslibertes.org" title="Institut des Libertes" text="Institut des Libertes" xmlUrl="http://institutdeslibertes.org/feed/" />
+<outline title="Contrepoints" xmlUrl="http://www.contrepoints.org/feed" type="rss" text="Contrepoints" htmlUrl="https://www.contrepoints.org/" />
+<outline text="L.I.E.S.I." htmlUrl="https://liesidotorg.com" xmlUrl="http://liesidotorg.wordpress.com/feed/" type="rss" title="L.I.E.S.I." />
+<outline type="rss" title="Insolentiae" xmlUrl="http://insolentiae.com/feed/" text="Insolentiae" htmlUrl="https://insolentiae.com" />
+</outline>
+<outline title="Energie" text="Energie">
+<outline type="rss" text="LaTribuneAuto.com" xmlUrl="http://www.latribuneauto.com/rss.html" title="LaTribuneAuto.com" htmlUrl="https://www.latribuneauto.com/" />
+<outline htmlUrl="http://architecture-durable.typepad.fr" xmlUrl="http://architecture-durable.typepad.fr/" text="Architecture Durable" title="Architecture Durable" type="rss" />
+</outline>
+<outline title="Formations" text="Formations">
+<outline title="NaturalNews.com" htmlUrl="http://www.naturalnews.com" type="rss" text="NaturalNews.com" xmlUrl="http://www.naturalnews.com/rss.xml" />
+</outline>
+<outline title="Free energy" text="Free energy">
+<outline type="rss" text="The future of free energy is here. [VIDEO]" htmlUrl="https://www.wimp.com/" title="The future of free energy is here. [VIDEO]" xmlUrl="http://www.wimp.com/rss/" />
+<outline title="Free Energy | Pitchfork" htmlUrl="http://pitchfork.com" xmlUrl="http://pitchfork.com/artists/27852-free-energy.rss" text="Free Energy | Pitchfork" type="rss" />
+<outline title="Free Energy Machines" xmlUrl="http://skeptoid.com/podcast.xml" htmlUrl="https://skeptoid.com" text="Free Energy Machines" type="rss" />
+<outline type="rss" htmlUrl="https://overunity.com/" xmlUrl="http://www.overunity.com/.xml/type/rss/" title="Free Energy | searching for free energy and discussing free energy" text="Free Energy | searching for free energy and discussing free energy" />
+</outline>
+<outline title="Informatique" text="Informatique">
+<outline title="The Guardian - Artificial intelligence" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai" type="rss" text="The Guardian - Artificial intelligence" />
+<outline title="Les dernières actualités de Futura" xmlUrl="http://www.futura-sciences.com/services/rss/actu10.xml" type="rss" text="Les dernières actualités de Futura" htmlUrl="https://www.futura-sciences.com" />
+<outline text="Tomshardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware" title="Tomshardware" />
+<outline htmlUrl="https://www.technadu.com" xmlUrl="https://www.technadu.com/feed/" type="rss" title="TechNadu" text="TechNadu" />
+<outline title="Mattermost" text="Mattermost" xmlUrl="https://mattermost.com/feed/" type="rss" htmlUrl="https://mattermost.com/" />
+<outline xmlUrl="http://www.futura-sciences.com/rss/dossiers" title="Les derniers dossiers de Futura" htmlUrl="https://www.futura-sciences.com" text="Les derniers dossiers de Futura" type="rss" />
+<outline htmlUrl="https://www.techno-science.net" text="Techno-Science.net" xmlUrl="http://www.techno-science.net/include/news.xml" type="rss" title="Techno-Science.net" />
+</outline>
+<outline title="Media" text="Media">
+<outline xmlUrl="http://www.stereophile.com/taxonomy/term/148/all/feed" text="Turntable Reviews" title="Turntable Reviews" type="rss" htmlUrl="https://www.stereophile.com/taxonomy/term/148/all" />
+<outline htmlUrl="http://www.cadebordedepotins.com/" text="Breaking News, Ca déborde de potins - Actu et critiques séries et ciné" type="rss" title="Breaking News, Ca déborde de potins - Actu et critiques séries et ciné" xmlUrl="http://cadebordedepotins.over-blog.com/rss-articles.xml" />
+<outline text="FredCavazza.net" htmlUrl="https://fredcavazza.net" type="rss" xmlUrl="http://www.fredcavazza.net/feed/" title="FredCavazza.net" />
+<outline xmlUrl="http://www.storyofstuff.org/feed/" title="The Story of Stuff Project" type="rss" htmlUrl="https://www.storyofstuff.org" text="The Story of Stuff Project" />
+</outline>
+<outline text="Must Read" title="Must Read">
+<outline xmlUrl="https://mrmacintosh.com/feed/" htmlUrl="https://mrmacintosh.com/" type="rss" title="Mr. Macintosh" text="Mr. Macintosh" />
+<outline title="The Eclectic Light Company" type="rss" xmlUrl="http://eclecticlight.co/feed/" htmlUrl="https://eclecticlight.co" text="The Eclectic Light Company" />
+<outline htmlUrl="https://www.technobel.be/blog" xmlUrl="http://www.technobel.be/blog/feed/" title="Le blog de Technobel" type="rss" text="Le blog de Technobel" />
+<outline title="Macs – The Eclectic Light Company" htmlUrl="https://eclecticlight.co" xmlUrl="https://eclecticlight.co/category/macs/feed/" type="rss" text="Macs – The Eclectic Light Company" />
+</outline>
+<outline title="My Feeds - Artificial Intelligence" text="My Feeds - Artificial Intelligence">
+<outline xmlUrl="https://www.artificiallawyer.com/feed" text="Artificial Lawyer" htmlUrl="https://www.artificiallawyer.com" type="rss" title="Artificial Lawyer" />
+</outline>
+<outline title="My Feeds - Machine Learning" text="My Feeds - Machine Learning">
+<outline type="rss" text="cs.DB updates on arXiv.org" htmlUrl="http://arxiv.org/" xmlUrl="http://arxiv.org/rss/cs.DB" title="cs.DB updates on arXiv.org" />
+<outline type="rss" htmlUrl="https://news.mit.edu/rss/topic/machine-learning" title="MIT News - ML" xmlUrl="http://news.mit.edu/rss/topic/machine-learning" text="MIT News - ML" />
+</outline>
+<outline text="News" title="News">
+<outline type="rss" text="Truthstream Media" title="Truthstream Media" htmlUrl="http://truthstreammedia.com" xmlUrl="http://truthstreammedia.com/feed/" />
+<outline htmlUrl="https://readwrite.com" xmlUrl="http://feeds.feedburner.com/readwrite/health" type="rss" text="Health - ReadWrite" title="Health - ReadWrite" />
+<outline xmlUrl="http://feeds.feedburner.com/readwrite/industrial" text="Industrial - ReadWrite" title="Industrial - ReadWrite" htmlUrl="https://readwrite.com" type="rss" />
+<outline text="Transportation - ReadWrite" htmlUrl="https://readwrite.com" type="rss" title="Transportation - ReadWrite" xmlUrl="http://feeds.feedburner.com/readwrite/transport" />
+<outline htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=agence+de+presse+yonhap" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=agence%20de%20presse%20yonhap&amp;um=1&amp;ie=UTF-8&amp;output=rss" text="agence de presse yonhap" type="rss" title="agence de presse yonhap" />
+<outline title="l’usinedigitale" text="l’usinedigitale" type="rss" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=l%E2%80%99usinedigitale" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=l%E2%80%99usinedigitale&amp;um=1&amp;ie=UTF-8&amp;output=rss" />
+<outline xmlUrl="https://fr.sputniknews.com/export/rss2/archive/index.xml" title="Sputnik Afrique: actualités du jour, infos en direct et en continu" type="rss" htmlUrl="https://fr.sputniknews.africa" text="Sputnik Afrique: actualités du jour, infos en direct et en continu" />
+<outline text="- Actualités A la une" type="rss" title="- Actualités A la une" xmlUrl="http://www.usine-digitale.fr/rss" htmlUrl="https://www.usine-digitale.fr" />
+<outline text="Smart Cities - ReadWrite" type="rss" xmlUrl="http://feeds.feedburner.com/SmartCitiesReadwrite" htmlUrl="https://readwrite.com" title="Smart Cities - ReadWrite" />
+</outline>
+<outline text="ps4" title="ps4">
+<outline type="rss" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=ps4" title="&quot;ps4&quot; - Google News" text="&quot;ps4&quot; - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=ps4&amp;um=1&amp;ie=UTF-8&amp;output=rss" />
+<outline title="Actualités PS4 - GamerGen.com" text="Actualités PS4 - GamerGen.com" xmlUrl="http://www.gamergen.com/rss/ps4" type="rss" htmlUrl="https://gamergen.com/" />
+<outline type="rss" xmlUrl="http://blog.us.playstation.com/category/ps4/feed/" title="PlayStation Blog" text="PlayStation Blog" htmlUrl="https://blog.playstation.com" />
+<outline type="rss" htmlUrl="https://www.jeuxvideo.com" text="PlayStation 4 - jeuxvideo.com" xmlUrl="http://www.jeuxvideo.com/rss/rss-ps4.xml" title="PlayStation 4 - jeuxvideo.com" />
+</outline>
+<outline text="Pole Shift" title="Pole Shift">
+<outline type="rss" htmlUrl="https://climatecrocks.com" title="Climate Denial Crock of the Week" xmlUrl="http://climatecrocks.com/feed/" text="Climate Denial Crock of the Week" />
+<outline title="UFO - the awareness of humanity." type="rss" text="UFO - the awareness of humanity." htmlUrl="http://x-u-f-o.blogspot.com/" xmlUrl="http://x-u-f-o.blogspot.com/feeds/posts/default" />
+<outline xmlUrl="http://www.actu-environnement.com/ae/news/archives/rss.php4" text="Programme des Nations Unies pour l'Environnement (PNUE ..." htmlUrl="https://www.actu-environnement.com" type="rss" title="Programme des Nations Unies pour l'Environnement (PNUE ..." />
+<outline type="rss" htmlUrl="https://lumieresurgaia.com" text="Lumière sur Gaia" title="Lumière sur Gaia" xmlUrl="http://stopmensonges.com/feed/" />
+<outline htmlUrl="https://www.notre-planete.info" type="rss" xmlUrl="http://www.notre-planete.info/news/news.xml" title="notre-planete.info : dernières infos" text="notre-planete.info : dernières infos" />
+<outline xmlUrl="http://www.gurumed.org/feed/" text="GuruMeditation" htmlUrl="https://www.gurumed.org/" type="rss" title="GuruMeditation" />
+</outline>
+<outline title="Potager" text="Potager">
+<outline title="Mon potager en carré" xmlUrl="http://mon-potager-en-carre.fr/feed" text="Mon potager en carré" type="rss" htmlUrl="https://mon-potager-en-carre.fr" />
+<outline text="Autour Du Potager" title="Autour Du Potager" xmlUrl="http://www.autourdupotager.com/feed/" type="rss" htmlUrl="https://www.autourdupotager.com" />
+</outline>
+<outline title="Réseaux" text="Réseaux">
+<outline xmlUrl="http://avenue-montaigne.be/feed" text="Avenue Montaigne" htmlUrl="https://avenue-montaigne.be" type="rss" title="Avenue Montaigne" />
+</outline>
+<outline title="ROBOT" text="ROBOT">
+<outline xmlUrl="http://robohub.org/feed/" title="Robohub" type="rss" text="Robohub" htmlUrl="https://robohub.org" />
+<outline title="AI News" type="rss" text="AI News" htmlUrl="https://www.artificialintelligence-news.com/" xmlUrl="https://www.artificialintelligence-news.com/feed/" />
+<outline title="Robotics &amp; AI • TechCrunch" htmlUrl="https://techcrunch.com/category/robotics-ai/" type="rss" text="Robotics &amp; AI • TechCrunch" xmlUrl="https://techcrunch.com/artificial-intelligence-2/feed/" />
+<outline title="The Robot Report" htmlUrl="https://www.therobotreport.com/" type="rss" xmlUrl="http://www.therobotreport.com/feed" text="The Robot Report" />
+<outline text="ScienceDaily - Artificial Intelligence" title="ScienceDaily - Artificial Intelligence" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" type="rss" />
+</outline>
+<outline text="Security" title="Security">
+<outline htmlUrl="https://www.biometricupdate.com" type="rss" xmlUrl="http://feeds.feedburner.com/biometricupdate" text="Biometric Update" title="Biometric Update" />
+<outline text="The Hacker News" type="rss" title="The Hacker News" htmlUrl="https://thehackernews.com" xmlUrl="http://thehackernews.com/feeds/posts/default" />
+</outline>
+<outline title="Techno" text="Techno">
+<outline text="HelloBricks" type="rss" title="HelloBricks" htmlUrl="https://www.hellobricks.com/" xmlUrl="http://feeds.feedburner.com/HelloBricks" />
+<outline htmlUrl="https://www.tested.com" xmlUrl="http://feeds.feedburner.com/TestedAll" type="rss" title="Tested" text="Tested" />
+<outline type="rss" title="Tom’s Hardware : actualités matériels et jeux vidéo" text="Tom’s Hardware : actualités matériels et jeux vidéo" htmlUrl="https://www.tomshardware.fr/" xmlUrl="http://www.tomshardware.fr/feeds/rss2/tom-s-hardware-fr,1-1.xml" />
+<outline text="ProgrammableWeb.com - Feed" type="rss" title="ProgrammableWeb.com - Feed" htmlUrl="https://www.programmableweb.com/" xmlUrl="http://feeds.feedburner.com/ProgrammableWeb" />
+<outline text="Futurism" htmlUrl="https://futurism.com" xmlUrl="http://www.fromquarkstoquasars.com/feed/" type="rss" title="Futurism" />
+<outline htmlUrl="https://thehackernews.com" xmlUrl="http://thehackernews.com/feeds/posts/default" type="rss" title="The Hacker News" text="The Hacker News" />
+<outline text="Traxxas News" title="Traxxas News" htmlUrl="https://traxxas.com/rss.xml" type="rss" xmlUrl="http://www.traxxas.com/rss.xml" />
+<outline text="Tech Times" type="rss" title="Tech Times" xmlUrl="http://www.techtimes.com/rss/archives/archives.xml" htmlUrl="https://www.techtimes.com/rss/archives/archives.xml" />
+<outline text="TED Talks Daily (SD video)" type="rss" title="TED Talks Daily (SD video)" htmlUrl="https://www.ted.com/talks" xmlUrl="http://feeds.feedburner.com/tedtalks_video" />
+<outline htmlUrl="https://www.sciencesetavenir.fr" xmlUrl="http://www.sciencesetavenir.fr/rss.xml" text="Sciences et Avenir en temps réel : accueil" type="rss" title="Sciences et Avenir en temps réel : accueil" />
+<outline type="rss" htmlUrl="https://www.cnetfrance.fr/" xmlUrl="http://www.cnetfrance.fr/feeds/rss/" title="CNETFrance.fr" text="CNETFrance.fr" />
+<outline text="Digital Trends" type="rss" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com" />
+<outline htmlUrl="https://www.makeuseof.com" text="MakeUseOf" xmlUrl="http://feeds.feedburner.com/Makeuseof" type="rss" title="MakeUseOf" />
+</outline>
+<outline title="Tesla" text="Tesla">
+<outline title="&quot;Phoenix Mobility&quot; - Google Actualités" htmlUrl="https://news.google.com/search?hl=fr&amp;gl=FR&amp;ceid=FR:fr&amp;q=Phoenix+Mobility" type="rss" xmlUrl="https://news.google.com/news/rss/search/section/q/Phoenix%20Mobility/Phoenix%20Mobility?ned=fr" text="&quot;Phoenix Mobility&quot; - Google Actualités" />
+<outline title="Tesla Magazine" htmlUrl="https://www.tesla-mag.com/" text="Tesla Magazine" type="rss" xmlUrl="http://www.tesla-mag.com/feed/" />
+<outline htmlUrl="https://evannex.com/blogs/news" type="rss" xmlUrl="http://evannex.com/blogs/news.atom" title="EVANNEX Aftermarket Tesla Accessories - Tesla News" text="EVANNEX Aftermarket Tesla Accessories - Tesla News" />
+<outline xmlUrl="http://www.nikola-brussels.be/feed/" text="Nikola Brussels » Feed" htmlUrl="https://nikola-brussels.be/" type="rss" title="Nikola Brussels » Feed" />
+<outline title="&quot;tesla&quot; - Google News" type="rss" text="&quot;tesla&quot; - Google News" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=tesla" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=tesla&amp;um=1&amp;ie=UTF-8&amp;output=rss" />
+<outline type="rss" xmlUrl="http://electrek.co/feed/" htmlUrl="https://electrek.co/" title="Electrek" text="Electrek" />
+<outline type="rss" text="&quot;tesla motors&quot; - Google News" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=tesla+motors" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=tesla%20motors&amp;um=1&amp;ie=UTF-8&amp;output=rss" title="&quot;tesla motors&quot; - Google News" />
+</outline>
+<outline title="Web Design" text="Web Design">
+<outline type="rss" htmlUrl="https://designrshub.com/" title="Designrshub - Design Articles, Inspirations, Resources and Freebies" xmlUrl="http://feeds.feedburner.com/Designrshub?format=xml" text="Designrshub - Design Articles, Inspirations, Resources and Freebies" />
+<outline xmlUrl="http://feeds.feedburner.com/iubenda" htmlUrl="https://www.iubenda.com/blog" type="rss" text="iubenda blog" title="iubenda blog" />
+<outline title="Digimedia.be" type="rss" text="Digimedia.be" xmlUrl="http://www.digimedia.be/rss-flux/rss-news.php?lng=fr" htmlUrl="http://www.digimedia.be" />
+<outline title="JDN : Derniers contenus" xmlUrl="http://www.journaldunet.com/rss/" type="rss" text="JDN : Derniers contenus" htmlUrl="https://www.journaldunet.com" />
+</outline>
+</body>
+</opml>
