@@ -53,8 +53,8 @@ crontab examples:
 */15 * * * * python twitterbot.py rt
 ```
 
-Use the [cron schedule expression editor](https://crontab.guru/) to easily create crons.
+Use the [cron schedule expression editor]() to easily create crons.
 
 ## Questions
 
-See [Questions and answers](https://github.com/peterdalle/twitterbot/wiki/Questions-and-answers) in the wiki.
+See [Questions and answers]() in the wiki.
